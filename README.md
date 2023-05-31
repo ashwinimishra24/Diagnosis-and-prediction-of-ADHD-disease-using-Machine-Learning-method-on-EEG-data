@@ -1,0 +1,1 @@
+# Diagnosis-and-prediction-of-ADHD-disease-using-Machine-Learning-method-on-EEG-data
