@@ -20,7 +20,7 @@ git clone https://github.com/ashwinimishra24/Diagnosis-and-prediction-of-ADHD-di
 
 ## Dataset
 
-The dataset used for this project was obtained from IEEE. It consists of EEG recordings from individuals diagnosed with ADHD. The dataset is not included in this repository due to its large size, but it can be accessed and downloaded from the IEEE website (provide the URL or instructions for accessing the dataset).
+The dataset used for this project was obtained from IEEE. It consists of EEG recordings from individuals diagnosed with ADHD. The dataset is not included in this repository due to its large size, but it can be accessed and downloaded from the IEEE website (https://ieee-dataport.org/open-access/eeg-data-adhd-control-children).
 
 
 ## Usage
